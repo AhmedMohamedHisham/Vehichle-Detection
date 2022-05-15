@@ -11,4 +11,4 @@ The goals / steps of this project are the following:
 
 ## Note
 
-Data file which contains the images for must be downloaded from here : https://drive.google.com/file/d/1gIyMqxqxClA7os5CgK3VqzigP58TBqjH/view
+Data file -which contains the images for visualizing train images- must be downloaded from here : https://drive.google.com/file/d/1gIyMqxqxClA7os5CgK3VqzigP58TBqjH/view
